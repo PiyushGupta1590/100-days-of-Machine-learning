@@ -1,7 +1,7 @@
 # 100 Days of Machine Learning
 
 A dump of all the Google Colab notebooks I have written while learning machine learning, data science and Python. Everything I have practiced and built along the way lives in this one repo.
-The zip files contains the complete more than 150 individual files.
+The zip files contains more than 150 individual files.
 
 ## What's Inside
 
